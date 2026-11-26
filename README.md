@@ -2,7 +2,7 @@
 
 A Streamlit web app that automatically segments HeLa cells from fluorescence microscopy images using a trained **U-Net with ResNet-34 encoder**.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hela-cell-segmentation.streamlit.app)
 
 ## 📊 Results
 
@@ -17,7 +17,7 @@ A Streamlit web app that automatically segments HeLa cells from fluorescence mic
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hela-cell-segmentation
+git clone https://github.com/taijassingh3962-hub/hela-cell-segmentation
 cd hela-cell-segmentation
 pip install -r requirements.txt
 streamlit run app.py
